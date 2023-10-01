@@ -1,4 +1,4 @@
-BASE_URL = "https://novelbuddy.com"
+BASE_URL = "https://mangabuddy.com"
 
 
 
